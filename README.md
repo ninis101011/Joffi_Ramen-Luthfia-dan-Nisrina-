@@ -4,4 +4,4 @@
 
 ## Hosting Joffi Ramen
 
-[Lihat website Joffi Ramen](https://joffiramen11.rf.gd)
+[Lihat web Joffi Ramen](https://joffiramen11.rf.gd)
